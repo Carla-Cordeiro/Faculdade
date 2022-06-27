@@ -2,14 +2,14 @@ Notas
 
 Início 02/05/2022
 
-Atividade 1 = 
-Atividade 2 = 
-Atividade 3 = 
-Atividade 4 = 
+Atividade 1 = 9,8
+Atividade 2 = 9,0
+Atividade 3 = 9,1
+Atividade 4 = 10,0
 
-Média N1 = 
+Média N1 = 9,5
 
-Prova N2 = 
+Prova N2 = 10,0
 
 
-Média Disciplina: 
+Média Disciplina: 10,0 
