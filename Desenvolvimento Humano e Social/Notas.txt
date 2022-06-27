@@ -12,4 +12,4 @@ Média N1 = 9,5
 Prova N2 = 10,0
 
 
-Média Disciplina: 10,0 
+Média Disciplina: 9,8 
